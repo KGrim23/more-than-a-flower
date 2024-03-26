@@ -93,10 +93,8 @@ main{
     background-image: url("./images/slider/1-2.jpg");
     position: relative;
     width: 100%;
-    aspect-ratio: 3 / 1;
+    aspect-ratio: 3 / 2;
     object-fit: cover;
-    object-position:  calc(var(--crop-focus-x) * 100%) 
-    calc(var(--crop-focus-y) * 100%);
     background-size: cover;
     background-position: top;
     display: flex;
