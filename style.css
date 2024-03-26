@@ -93,10 +93,6 @@ main{
     background-image: url("./images/slider/1-2.jpg");
     position: relative;
     width: 100%;
-    aspect-ratio: 3 / 2;
-    object-fit: cover;
-    background-size: cover;
-    background-position: top;
     display: flex;
     justify-content: center;
     align-items: center;
